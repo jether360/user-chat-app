@@ -1,0 +1,10 @@
+.create-form-col {
+  width: 50%;
+}
+
+@media (max-width: 767px) {
+  .create-form-col {
+    width: 100%;
+  }
+}
+/*# sourceMappingURL=createForm.css.map */

@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,gBAAgB,CAAA;EACZ,KAAK,EAAE,GAAG;CACb;;AAED,MAAM,EAAE,SAAS,EAAE,KAAK;EACpB,AAAA,gBAAgB,CAAA;IACZ,KAAK,EAAE,IAAI;GACd",
+    "sources": [
+        "createForm.scss"
+    ],
+    "names": [],
+    "file": "createForm.css"
+}
