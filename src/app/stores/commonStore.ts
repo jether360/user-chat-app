@@ -19,11 +19,11 @@ import { getStorage } from "firebase/storage";
 
 const firebaseConfig = {
   apiKey: process.env.REACT_APP_FIREBASE_KEY,
-  authDomain: "voting-platform-926cc.firebaseapp.com",
-  projectId: "voting-platform-926cc",
-  storageBucket: "voting-platform-926cc.appspot.com",
-  messagingSenderId: "203123926973",
-  appId: "1:203123926973:web:9c3e136c4f206b36fad4d4"
+  authDomain: "",
+  projectId: "",
+  storageBucket: "",
+  messagingSenderId: "",
+  appId: ""
 };
 
 const app = initializeApp(firebaseConfig);
