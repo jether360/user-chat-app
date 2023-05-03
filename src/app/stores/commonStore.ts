@@ -19,11 +19,11 @@ import { getStorage } from "firebase/storage";
 
 const firebaseConfig = {
   apiKey: process.env.REACT_APP_FIREBASE_KEY,
-  authDomain: "",
-  projectId: "",
-  storageBucket: "",
-  messagingSenderId: "",
-  appId: ""
+  authDomain: "test",
+  projectId: "test",
+  storageBucket: "test",
+  messagingSenderId: "test",
+  appId: "test"
 };
 
 const app = initializeApp(firebaseConfig);
